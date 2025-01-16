@@ -2,6 +2,6 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        System.Console.WriteLine("Clothes texture");
+        System.Console.WriteLine("Hair texture");
     }
 }
