@@ -11,6 +11,7 @@ Le projet est organisé autour de branches qui correspondent aux différentes pa
 ### Branches Principales
 
 - **`main`** : Branche principale contenant la version stable du projet.
+-  **`dev`** : Branche secondaire contenant la version de test du projet.
 - **`feature/*`** : Branches dédiées au développement de fonctionnalités spécifiques liées à la création du personnage.
 - **`bug/*`** : Branches dédiées à la correction des bugs.
 
@@ -40,10 +41,3 @@ Le projet est organisé autour de branches qui correspondent aux différentes pa
 - **`bug/clothes_texture`** : Résolution des problèmes liés aux textures des vêtements.
 
 ---
-
-## Workflow Collaboratif
-
-1. **Cloner le dépôt** :
-   ```bash
-   git clone <URL_DU_DEPOT>
-   cd <NOM_DU_DEPOT>
